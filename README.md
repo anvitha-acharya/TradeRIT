@@ -26,18 +26,22 @@ Make sure to also have:
 
 ```bash
 git clone https://github.com/your_username/shopping_app.git
+```
 
 4. Navigate into the project directory
 
 ```bash
 cd shopping_app
+```
 
 5. Install required dependencies
 
 ```bash
 flutter pub get
+```
 
 6. Running the app
 
 ```bash
 flutter run
+```
